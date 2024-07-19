@@ -68,4 +68,5 @@ describe("Rover class", function() {
     expect(checkRoverMove[0].completed).toBe(true);
   });
 
+  
 });
